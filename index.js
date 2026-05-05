@@ -1,1 +1,1 @@
-console.log('ERC Senati');
+console.log('ERC Senati iniciado');
